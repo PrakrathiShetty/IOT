@@ -9,8 +9,6 @@ https://wokwi.com/projects/322062421191557714<br>
 https://wokwi.com/projects/334978042856211028<br>
 5.servomotor using potential slide<br>
 https://wokwi.com/projects/334978042856211028<br>
-correct one oof 6 <br>
-https://wokwi.com/projects/334978042856211028<br>
 6.buzzer with resistor only<br>
 https://wokwi.com/projects/335065104791896658<br>
 7.using buzzer and pushbutton<br>
