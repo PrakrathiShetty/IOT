@@ -2,9 +2,6 @@ PROGRAMS OF IOT<br>
 1.Traffic LED<br>
 https://wokwi.com/projects/333716331435131476<br>
 2.RGB LED<br>
-https://wokwi.com/projects/333800465418420820<br>
-3 REG LED correct pgm<br>
-https://wokwi.com/projects/333804499811435090<br>
 https://wokwi.com/projects/333805328840786515<br>
 4.Hello world<br>
 https://wokwi.com/projects/322062421191557714<br>
