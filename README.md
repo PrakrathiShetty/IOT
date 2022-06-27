@@ -14,7 +14,7 @@ https://wokwi.com/projects/335065104791896658<br>
 7.using buzzer and pushbutton<br>
 https://wokwi.com/projects/335067745393574483<br>
 8.ultrasonic sensor<br>
-https://wokwi.com/projects/33507001585107003510<br>
+https://wokwi.com/projects/335070015851070035<br>
 9.ultrasonic sensor with buzzer<br>
 https://wokwi.com/projects/335073357821117012<br>
 
