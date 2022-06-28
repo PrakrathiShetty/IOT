@@ -16,7 +16,7 @@ https://wokwi.com/projects/335067745393574483<br>
 8.ultrasonic sensor<br>
 https://wokwi.com/projects/335070015851070035<br>
 9.ultrasonic sensor with buzzer<br>
-https://wokwi.com/projects/335073357821117012<br>
+https://wokwi.com/projects/335706592453329491<br>
 10.ultrasonic sensor with buzzer and LED<br>
 https://wokwi.com/projects/335610028297814611<br>
 11.2 ultrasonic with one buzzer and LED<br>
