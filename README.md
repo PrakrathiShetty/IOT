@@ -58,3 +58,9 @@ Serial.print(temp);<br>
 Serial.println(" Celsius");<br>
 delay(1000); //Delay 2 sec.<br>
 }<br>
+
+
+1.<br>
+
+2.To interface Push button/Digital sensor (IR/LDR) with arduino and write a program to turn ON LED when push button is pressed or at sensor detection.<br>
+https://wokwi.com/projects/338226711455859284<br>
