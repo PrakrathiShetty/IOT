@@ -60,7 +60,10 @@ delay(1000); //Delay 2 sec.<br>
 }<br>
 
 
-1.<br>
 
-2.To interface Push button/Digital sensor (IR/LDR) with arduino and write a program to turn ON LED when push button is pressed or at sensor detection.<br>
-https://wokwi.com/projects/338226711455859284<br>
+1.   https://wokwi.com/projects/338227139367141971      (1. to turn LED on for 1 sec after every 2 sec)<br>
+2.   https://wokwi.com/projects/338226711455859284      (2. turn on the LED when pushbutton is pressed)<br>
+3.   https://wokwi.com/projects/338147082096345683      (DHT22 humidity sensor with temperature)<br>
+4.   https://wokwi.com/projects/335705347315466835      (servomoter with pushbutton)<br>
+5.   https://wokwi.com/projects/338154081559249491      (DHT22+LCD)<br>
+
