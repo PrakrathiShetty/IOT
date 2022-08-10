@@ -122,4 +122,42 @@ digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
 }<br>
 
 
+IDR SENSOR<br>
+int ldr=A0;//Set A0(Analog Input) for LDR.<br>
+
+int value=0;<br>
+
+int led=D1;<br>
+
+void setup() {<br>
+
+Serial.begin(9600);<br>
+
+pinMode(led,OUTPUT);<br>
+
+}<br>
+
+
+void loop() {<br>
+
+value=analogRead(ldr);//Reads the Value of LDR(light).<br>
+
+Serial.println("LDR value is :");//Prints the value of LDR to Serial Monitor.<br>
+<br>
+Serial.println(value);<br>
+
+if(value<50)<br>
+
+{<br>
+digitalWrite(led,HIGH);//Makes the LED glow in Dark.<br>
+}<br>
+else<br>
+{<br>
+digitalWrite(led,LOW);//Turns the LED OFF in Light.<br>
+}<br>
+delay(1000);<br>
+}<br>
+
+
+
 
