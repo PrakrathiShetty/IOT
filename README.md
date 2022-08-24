@@ -175,8 +175,8 @@ https://wokwi.com/projects/340776572602548818 - LDR<br>
 https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
 
 esp32 based program<br>
-https://wokwi.com/projects/340854134524609107<br>
-https://wokwi.com/projects/340854774227272276-lcd<br>
+https://wokwi.com/projects/340854134524609107-rgb<br>
+https://wokwi.com/projects/340854774227272276- lcd<br>
 https://wokwi.com/projects/340856223828017746-servo with pushbutton<br>
 https://wokwi.com/projects/340857406334435922-buzzer with pushbutton<br>
 https://wokwi.com/projects/340857463914889810-servo with sliding potentiometer not executed in esp32<br>
