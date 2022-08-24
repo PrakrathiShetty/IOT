@@ -158,6 +158,19 @@ digitalWrite(led,LOW);//Turns the LED OFF in Light.<br>
 delay(1000);<br>
 }<br>
 
-
+1 internal exam<br>
+https://wokwi.com/projects/333796636268429907 - LED<br>
+https://wokwi.com/projects/333802415714206291 - 3 LED<br>
+https://wokwi.com/projects/333801005399409236 - RGB Led<br>
+https://wokwi.com/projects/322062421191557714 - LIQUID CRYSTAL<br>
+https://wokwi.com/projects/335699264816546387 - Servo Motor + Pushbutton<br>
+https://wokwi.com/projects/334981582917993044 - Servo Motor + Sliding Potentiometer<br>
+https://wokwi.com/projects/335069089200341587 - Buzzer + Pushbutton_<br>
+https://wokwi.com/projects/335073264458007124 - Buzzer + UltraSonic Sensor<br>
+https://wokwi.com/projects/335701186493547091 - Potentiometer + LED<br>
+https://wokwi.com/projects/337602684471214674 - DHT22(Humidity and Temperature sensor)<br>
+https://wokwi.com/projects/340775764469219922 - LED_CHASER<br>
+https://wokwi.com/projects/340776572602548818 - LDR<br>
+https://wokwi.com/projects/340776926585029204 - LDR_LED<br>
 
 
