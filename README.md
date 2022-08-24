@@ -181,3 +181,6 @@ https://wokwi.com/projects/340856223828017746 -servo with pushbutton<br>
 https://wokwi.com/projects/340857406334435922 -buzzer with pushbutton<br>
 [https://wokwi.com/projects/340857463914889810 ](https://wokwi.com/projects/340872721906795092)-servo with sliding potentiometer not executed in esp32<br>
 https://wokwi.com/projects/340857989669847634 -ultrasonic with buzzer<br>
+ESP32
+https://wokwi.com/projects/336966830711112275 - LED<br>
+https://wokwi.com/projects/336967978479256147 - 3 LED<br>
