@@ -183,3 +183,4 @@ https://wokwi.com/projects/340857406334435922 -buzzer with pushbutton<br>
 https://wokwi.com/projects/340857989669847634 -ultrasonic with buzzer<br>
 https://wokwi.com/projects/336966830711112275 - LED<br>
 https://wokwi.com/projects/336967978479256147 - 3 LED<br>
+https://wokwi.com/projects/340889723195097684 - Potentiometer + LED<br>
