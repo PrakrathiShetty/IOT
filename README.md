@@ -186,4 +186,4 @@ https://wokwi.com/projects/336967978479256147 - 3 LED<br>
 https://wokwi.com/projects/340889723195097684 - Potentiometer + LED<br>
 https://wokwi.com/projects/340890798001226322 -DTH2<br>
 https://wokwi.com/projects/340891507727794771 -LED_CHASER<br>
-
+https://wokwi.com/projects/340972516846600786 -LDR<br>
