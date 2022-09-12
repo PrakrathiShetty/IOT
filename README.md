@@ -196,3 +196,4 @@ https://wokwi.com/projects/322410731508073042 -DTH22<br>
 https://wokwi.com/projects/290056311044833800 -Display distance on LCD screen with LED <br> 
 Reference2: https://wokwi.com/projects/290043622233997832 -Display distance on LCD screen with buzzer<br>
 https://wokwi.com/projects/342590457634619986 -Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs Reference<br>
+https://wokwi.com/projects/342589648838591060 -Electronic Safe, powered by an Arduino Uno. Reference<br>
