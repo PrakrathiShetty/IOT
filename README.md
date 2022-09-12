@@ -188,3 +188,7 @@ esp32 based program<br>
 11 https://wokwi.com/projects/340891507727794771 -LED_CHASER<br>
 13 https://wokwi.com/projects/340972516846600786 -LDR<br> 
 14 https://wokwi.com/projects/340972863626412627 - LDR_LED<br>
+
+lab program 12/09<br>
+https://wokwi.com/projects/342585605441454676 -seven segment led<br>
+https://wokwi.com/projects/342586202604438100 -joystick with led dot matrix<br>
