@@ -192,3 +192,7 @@ esp32 based program<br>
 lab program 12/09<br>
 https://wokwi.com/projects/342585605441454676 -seven segment led<br>
 https://wokwi.com/projects/342586202604438100 -joystick with led dot matrix<br>
+https://wokwi.com/projects/322410731508073042 -DTH22<br>
+https://wokwi.com/projects/290056311044833800 -Display distance on LCD screen with LED <br> 
+Reference2: https://wokwi.com/projects/290043622233997832 -Display distance on LCD screen with buzzer<br>
+https://wokwi.com/projects/342590457634619986 -Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs Reference<br>
