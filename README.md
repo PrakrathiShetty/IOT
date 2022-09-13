@@ -158,6 +158,36 @@ digitalWrite(led,LOW);//Turns the LED OFF in Light.<br>
 delay(1000);<br>
 }<br>
 
+Sound Sensor<br>
+int led = D6;<br>
+int sound_digital = D2;<br>
+//int sound_analog = A0;<br>
+
+void setup(){<br>
+  Serial.begin(9600);<br>
+  pinMode(led, OUTPUT);<br>
+  pinMode(sound_digital, INPUT);  <br>
+}<br>
+
+void loop(){<br>
+  int val_digital = digitalRead(sound_digital);<br>
+  //int val_analog = analogRead(sound_analog);<br>
+<br>
+  //Serial.print(val_analog);<br>
+  Serial.print("\t");<br>
+  Serial.println(val_digital);<br>
+
+  if (val_digital == HIGH)<br>
+  {<br>
+    digitalWrite (led, HIGH);<br>
+    delay(500);<br>
+    }<br>
+  else<br>
+  {
+    digitalWrite (led, LOW);<br>
+    }<br>
+}<br>
+
 1 internal exam<br>
 https://wokwi.com/projects/333796636268429907 - LED<br>
 https://wokwi.com/projects/333802415714206291 - 3 LED<br>
